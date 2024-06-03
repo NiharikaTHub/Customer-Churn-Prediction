@@ -1,0 +1,25 @@
+11 features and one target variable 
+
+customer_id, contains random values and has no effect on customer leaving the bank
+
+credit_score, credit score of customer
+
+country, country of residence
+
+gender, gender of customer
+
+age, age of customer
+
+tenure, number of years that the customer has been a client of the bank
+
+balance, balance of customer
+
+products_number, number of products that a customer has purchased through the bank
+
+credit_card, denotes whether or not a customer has a credit card
+
+active_member, active user
+
+estimated_salary, estimated customer salary
+
+churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
